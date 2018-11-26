@@ -1,0 +1,19 @@
+%% my3Dfun2
+% Function domain
+[x,y] = sin(sqrt(x^2+y^2)+eps)/sqrt(x^2=)
+% Fsunction values
+z = ...
+% Figure initialization
+figure ...
+% Plotting figure
+surf ...
+% Title
+title
+% Labels
+xlabel ...
+% Grid
+grid ...
+% Colormap
+colormap 
+% Shading
+shading ...
